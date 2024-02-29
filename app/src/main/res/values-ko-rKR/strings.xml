@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">매우멋진스크린</string>
+    <string name="Email">이메일</string>
+    <string name="Email_Address">이메일 주소</string>
+    <string name="Extension">확장</string>
+    <string name="Department">부서</string>
+    <string name="Department_Name">부서 이름</string>
+    <string name="Supervisor">감독관</string>
+    <string name="Supervisor_name">감독관 이름</string>
+    <string name="Direct_Reports">다이렉트 리포트</string>
+    <string name="Name">" 이름"</string>
+
+
+</resources>
